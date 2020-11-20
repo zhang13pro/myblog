@@ -1,0 +1,23 @@
+{
+  "name": "myblog",
+  "version": "1.0.0",
+  "description": "we work for future",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/zhangbobo1998/myblog.git"
+  },
+  "author": "jiffyzhang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhangbobo1998/myblog/issues"
+  },
+  "homepage": "https://github.com/zhangbobo1998/myblog#readme",
+  "dependencies": {
+    "vuepress": "^1.7.1"
+  }
+}
